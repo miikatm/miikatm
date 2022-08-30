@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @miikatm
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... coding
-- 📫 How to reach me ... here
 
 SC2 AI bot
 - https://github.com/miikatm/Copy_botAISC2
