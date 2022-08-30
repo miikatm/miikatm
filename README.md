@@ -5,7 +5,7 @@
 - 📫 How to reach me ... here
 
 SC2 AI bot
-https://github.com/miikatm/Copy_botAISC2
+- https://github.com/miikatm/Copy_botAISC2
   
 <!---
 miikatm/miikatm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
